@@ -8,8 +8,7 @@
 
 Um projeto simples e elegante para criar uma página centralizada com todos os seus links importantes, funcionando como um cartão de visitas digital. Ideal para usar na bio de redes sociais.
 
-![Demonstração do Projeto](./animacao.gif)
-> **Dica:** O código acima espera um GIF chamado `animacao.gif`. Se o seu GIF tiver outro nome, lembre-se de alterar o nome do arquivo nesta linha!
+Resultado final do projeto https://codezeroo01.github.io/minha-pagina-links/
 
 ---
 
